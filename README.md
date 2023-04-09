@@ -3,7 +3,7 @@ I just made this randomly 5 minute ago when I want to test how much can I press 
 Don't expect much from this.
 
 ## How to use
-
+required [Python](https://www.python.org/) version 3 
 ```bash
     git clone https://github.com/SIMP-art/kps-click-per-sec-.git
     pip install keyboard
